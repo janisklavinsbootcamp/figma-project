@@ -272,8 +272,8 @@ a:link {
     height: 102px;
     left: 8%;
     right: 58.14%;
-    top: 66%;
-    width: 55%;
+    top: 63%;
+    width: 40%;
     margin-top: 30px;
 
     font-family: Work Sans;
@@ -288,7 +288,7 @@ a:link {
     position: absolute;
     float: right;
     left: 6%;
-    top: 99%;
+    top: 88%;
   }
 
   .main-image {
@@ -326,7 +326,7 @@ a:link {
     height: 102px;
     left: 8%;
     right: 58.14%;
-    top: 69%;
+    top: 65%;
     width: 70%;
     margin-top: 30px;
 
@@ -342,7 +342,7 @@ a:link {
     position: absolute;
     float: right;
     left: 6%;
-    top: 99%;
+    top: 90%;
   }
 
   .main-image {
